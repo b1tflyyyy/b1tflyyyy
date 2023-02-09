@@ -8,6 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b1tflyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="b1tflyyyy" /> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=b1tflyyyy" alt="b1tflyyyy" /></a> </p>
 
 - 🔭 I’m currently working on [EnglishWords](https://github.com/b1tflyyyy/EnglishWords)
