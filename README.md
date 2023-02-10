@@ -27,7 +27,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b1tflyyyy&theme=github_dark) <img align="center">
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=b1tflyyyy&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=b1tflyyyy&theme=github_dark) <img align="right">
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=b1tflyyyy&theme=github_dark) 
