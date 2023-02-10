@@ -27,7 +27,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b1tflyyyy&theme=solarized_dark)
 
 
-<p align="right"> ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=b1tflyyyy&theme=solarized_dark) <\p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=b1tflyyyy&theme=solarized_dark) 
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=b1tflyyyy&theme=solarized_dark)
