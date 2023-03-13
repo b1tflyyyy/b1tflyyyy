@@ -22,6 +22,9 @@
 <h3 align="left">About me:</h3>
 It is empty here so far
 
+<h3 align="left">Statistics:</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1tflyyyy)](https://github.com/b1tflyyyy/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/andrew-solo-403339255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andrew-solo-403339255/" height="30" width="40" /></a>
