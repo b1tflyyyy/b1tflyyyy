@@ -21,17 +21,17 @@
 
 <h3 align="left">About me:</h3>
 
-<p>I am from Ukraine and I am 15 years old.</p>
-<p>I have been a developer since 01.09.2021.</p>
+<p>I'm from Ukraine, I'm 15.</p>
+<p>Developer since 01.09.2021.</p>
 <p>Education: incomplete secondary education.</p>
 <p>I have commercial experience.</p>
-<p>My main programming languages are C++ and C#.</p>
-<p>I have knowledge of foreign languages: English A2-B1, Slovak A1, Ukrainian C2.</p>
+<p>Main programming languages: C++, C#.</p>
+<p>Knowledge of foreign languages: English A2-B1, Slovak A1, Ukrainian C2.</p>
 <p>Technologies - frameworks - APIs - libraries: SFML, .NET, EF, boost, WinAPI.</p>
 <p>Message for you:</p>
 <blockquote>
 	<p>Do what you want and everything will be cool.</p>
-	<p>If everything was easy, it would be boring.</p>
+	<p>If everything were easy, it would be boring.</p>
 </blockquote>
 
 <h3 align="left">Connect with me:</h3>
