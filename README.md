@@ -19,9 +19,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=b1tflyyyy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on [EnglishWords](https://github.com/b1tflyyyy/EnglishWords)
-
-- 🌱 I’m currently learning **cpp\cs**
+<h3 align="left">About me:</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
