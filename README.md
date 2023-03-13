@@ -9,6 +9,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b1tflyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="b1tflyyyy" /> </p>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=b1tflyyyy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
