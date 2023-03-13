@@ -8,6 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b1tflyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="b1tflyyyy" /> </p>
 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=b1tflyyyy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [EnglishWords](https://github.com/b1tflyyyy/EnglishWords)
