@@ -19,8 +19,18 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=b1tflyyyy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<summary>About me:</summary>
-It is empty here so far
+<h3 align="left">About me:</h3>
+I'm from Ukraine, I'm 15.
+Developer since 09.01.2021.
+Education: incomplete secondary education.
+There is commercial experience.
+Main programming languages: c++, c#.
+Knowledge of foreign languages: English A2-B1, Slovak A1, Ukrainian C2.
+Technologies - frameworks - API - libraries: SFML, .NET, EF, boost, WinAPI.
+
+A message for you:
+Do what you want and everything will be cool.
+If everything were easy - it would not be interesting.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
