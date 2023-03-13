@@ -22,8 +22,11 @@
 <h3 align="left">About me:</h3>
 It is empty here so far
 
-<h3 align="left">Statistics:</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1tflyyyy)](https://github.com/b1tflyyyy/github-readme-stats)
+<details>
+  <summary>📊 Stats:</summary>
+    <img src="https://github-readme-stats.vercel.app/api?username=HACCKKER&hide_border=true&show_icons=true&include_all_commits=true&show_icons=true&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACCKKER&hide_border=true&layout=compact&show_icons=true&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&bg_color=00000000" />
+</details>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
