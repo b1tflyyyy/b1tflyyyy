@@ -20,17 +20,19 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=b1tflyyyy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">About me:</h3>
-I'm from Ukraine, I'm 15.
-Developer since 09.01.2021.
-Education: incomplete secondary education.
-There is commercial experience.
-Main programming languages: c++, c#.
-Knowledge of foreign languages: English A2-B1, Slovak A1, Ukrainian C2.
-Technologies - frameworks - API - libraries: SFML, .NET, EF, boost, WinAPI.
 
-A message for you:
-Do what you want and everything will be cool.
-If everything were easy - it would not be interesting.
+<p>I am from Ukraine and I am 15 years old.</p>
+<p>I have been a developer since 01.09.2021.</p>
+<p>Education: incomplete secondary education.</p>
+<p>I have commercial experience.</p>
+<p>My main programming languages are C++ and C#.</p>
+<p>I have knowledge of foreign languages: English A2-B1, Slovak A1, Ukrainian C2.</p>
+<p>Technologies - frameworks - APIs - libraries: SFML, .NET, EF, boost, WinAPI.</p>
+<p>Message for you:</p>
+<blockquote>
+	<p>Do what you want and everything will be cool.</p>
+	<p>If everything was easy, it would be boring.</p>
+</blockquote>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
