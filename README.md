@@ -20,7 +20,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=b1tflyyyy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">About me:</h3>
-hello
+It is empty here so far
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
