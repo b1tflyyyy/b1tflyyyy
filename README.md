@@ -15,14 +15,9 @@
 <p>Developer since 01.09.2021.</p>
 <p>Education: incomplete secondary education.</p>
 <p>I have commercial experience.</p>
-<p>Main programming languages: C++, C#.</p>
+<p>Programming languages: c, c++ && c++(wiring), c#, golang.</p>
 <p>Knowledge of foreign languages: English A2-B1, Slovak A1, Ukrainian C2.</p>
 <p>Technologies - frameworks - APIs - libraries: SFML, .NET, EF, boost, WinAPI.</p>
-<p>Message for you:</p>
-<blockquote>
-	<p>Do what you want and everything will be cool.</p>
-	<p>If everything were easy, it would be boring.</p>
-</blockquote>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
