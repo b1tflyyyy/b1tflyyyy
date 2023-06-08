@@ -6,6 +6,7 @@
 <h1 align="left">Hi 👋, I'm b1tflyyyy</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b1tflyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="b1tflyyyy" /> </p>
+[![wakatime](https://wakatime.com/badge/user/4ba08eab-cf70-4def-ba07-2f9291b2fa9d.svg)](https://wakatime.com/@4ba08eab-cf70-4def-ba07-2f9291b2fa9d)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=b1tflyyyy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
