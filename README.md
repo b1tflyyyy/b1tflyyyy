@@ -13,7 +13,7 @@
 
 <h3 align="left">About me:</h3>
 
-<p>I'm from Ukraine, I'm 15.</p>
+<p>I'm from Ukraine, 15y.</p>
 <p>Developer since 01.09.2021.</p>
 <p>Education: incomplete secondary education.</p>
 <p>I have commercial experience.</p>
