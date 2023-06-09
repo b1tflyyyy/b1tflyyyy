@@ -5,7 +5,7 @@
 
 <p align="left">Total time of coding, since Mar 6 2023:</p>
 <a href="https://wakatime.com/@4ba08eab-cf70-4def-ba07-2f9291b2fa9d"><img src="https://wakatime.com/badge/user/4ba08eab-cf70-4def-ba07-2f9291b2fa9d.svg"/></a>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=b1tflyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="b1tflyyyy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=b1tflyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="b1tflyyyy" /> </p>
 
 
 
