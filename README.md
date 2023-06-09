@@ -1,6 +1,4 @@
-<div align="left">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 50%" />
-</div>  
+![image](https://github.com/b1tflyyyy/b1tflyyyy/assets/99272066/4b135a78-d146-4716-a6bd-020948b6faa1) 
  
 
 <h1 align="left">Hi 👋, I'm b1tflyyyy</h1>
