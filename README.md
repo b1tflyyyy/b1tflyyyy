@@ -12,11 +12,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=b1tflyyyy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">About me:</h3>
-
-<p>I'm from Ukraine, 15y.</p>
-<p>Developer since 01.09.2021.</p>
-<p>Education: incomplete secondary education.</p>
-<p>I have commercial experience.</p>
 <p>Programming languages: c, c++ && c++(wiring), c#, golang.</p>
 <p>Knowledge of foreign languages: English A2-B1, Slovak A1, Ukrainian C2.</p>
 <p>Technologies - frameworks - APIs - libraries: SFML, .NET, EF, boost, WinAPI.</p>
