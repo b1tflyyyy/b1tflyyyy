@@ -12,9 +12,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=b1tflyyyy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">About me:</h3>
-<p>Programming languages: c, c++ && c++(wiring), c#, golang.</p>
-<p>Knowledge of foreign languages: English A2-B1, Slovak A1, Ukrainian C2.</p>
-<p>Technologies - frameworks - APIs - libraries: SFML, .NET, EF, boost, WinAPI.</p>
+<p>I`m c/c++ c#/golang developer.</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
